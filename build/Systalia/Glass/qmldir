@@ -1,0 +1,9 @@
+module Systalia.Glass
+typeinfo systalia_glass_engine.qmltypes
+prefer :/qt/qml/Systalia/Glass/
+SystaliaClientWindow 254.0 SystaliaClientWindow.qml
+AnimatedBackdrop 254.0 AnimatedBackdrop.qml
+GlassWindow 254.0 controls/GlassWindow.qml
+MetricOverlay 254.0 controls/MetricOverlay.qml
+depends QtQuick
+

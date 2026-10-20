@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_systalia_glass_engine_FILE /home/lucasramos/Documentos/Systalia Engine/build/systalia_glass_engine)
+set(__QT_DEPLOY_TARGET_systalia_glass_engine_TYPE EXECUTABLE)

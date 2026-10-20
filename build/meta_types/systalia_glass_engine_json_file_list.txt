@@ -1,0 +1,2 @@
+/home/lucasramos/Documentos/Systalia Engine/build/systalia_glass_engine_autogen/include/../JXX2CMMHHR/moc_SystaliaGlassItem.cpp.json
+/home/lucasramos/Documentos/Systalia Engine/build/systalia_glass_engine_autogen/include/../PRMOGMWJPH/moc_EngineConfig.cpp.json

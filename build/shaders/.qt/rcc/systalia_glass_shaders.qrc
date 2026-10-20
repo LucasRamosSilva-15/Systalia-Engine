@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/systalia/shaders">
+    <file alias="kawase_down.frag.qsb">/home/lucasramos/Documentos/Systalia Engine/build/shaders/.qsb/kawase_down.frag.qsb</file>
+    <file alias="kawase_up.frag.qsb">/home/lucasramos/Documentos/Systalia Engine/build/shaders/.qsb/kawase_up.frag.qsb</file>
+    <file alias="valo_glass.frag.qsb">/home/lucasramos/Documentos/Systalia Engine/build/shaders/.qsb/valo_glass.frag.qsb</file>
+    <file alias="valo_glass.vert.qsb">/home/lucasramos/Documentos/Systalia Engine/build/shaders/.qsb/valo_glass.vert.qsb</file>
+  </qresource>
+</RCC>
+

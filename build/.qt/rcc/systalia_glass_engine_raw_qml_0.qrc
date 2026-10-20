@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/Systalia/Glass/">
+    <file alias="main.qml">/home/lucasramos/Documentos/Systalia Engine/qml/main.qml</file>
+    <file alias="compositor.qml">/home/lucasramos/Documentos/Systalia Engine/qml/compositor.qml</file>
+    <file alias="SystaliaClientWindow.qml">/home/lucasramos/Documentos/Systalia Engine/qml/SystaliaClientWindow.qml</file>
+    <file alias="AnimatedBackdrop.qml">/home/lucasramos/Documentos/Systalia Engine/qml/AnimatedBackdrop.qml</file>
+    <file alias="controls/GlassWindow.qml">/home/lucasramos/Documentos/Systalia Engine/qml/controls/GlassWindow.qml</file>
+    <file alias="controls/MetricOverlay.qml">/home/lucasramos/Documentos/Systalia Engine/qml/controls/MetricOverlay.qml</file>
+  </qresource>
+</RCC>
+

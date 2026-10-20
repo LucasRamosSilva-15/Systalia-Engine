@@ -1,0 +1,14 @@
+--resource
+/home/lucasramos/Documentos/Systalia Engine/build/.qt/rcc/qmake_Systalia_Glass.qrc
+--resource
+/home/lucasramos/Documentos/Systalia Engine/build/.qt/rcc/systalia_glass_engine_raw_qml_0.qrc
+--resource
+/home/lucasramos/Documentos/Systalia Engine/build/.qt/rcc/systalia_glass_engine_raw_qml_0_extra_qmldirs.qrc
+--resource
+/home/lucasramos/Documentos/Systalia Engine/build/shaders/.qt/rcc/systalia_glass_shaders.qrc
+/qt/qml/Systalia/Glass/main.qml
+/qt/qml/Systalia/Glass/compositor.qml
+/qt/qml/Systalia/Glass/SystaliaClientWindow.qml
+/qt/qml/Systalia/Glass/AnimatedBackdrop.qml
+/qt/qml/Systalia/Glass/controls/GlassWindow.qml
+/qt/qml/Systalia/Glass/controls/MetricOverlay.qml

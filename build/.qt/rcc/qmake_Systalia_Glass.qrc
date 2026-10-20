@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Systalia/Glass">
+    <file alias="qmldir">/home/lucasramos/Documentos/Systalia Engine/build/Systalia/Glass/qmldir</file>
+  </qresource>
+</RCC>
+

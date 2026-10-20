@@ -1,0 +1,16 @@
+-rootPath
+/home/lucasramos/Documentos/Systalia Engine
+-cmake-output
+-output-file
+/home/lucasramos/Documentos/Systalia Engine/build/.qt/qml_imports/systalia_glass_engine_conf.cmake
+-importPath
+/home/lucasramos/Documentos/Systalia Engine/build
+-importPath
+/home/lucasramos/Documentos/Systalia Engine/build/Systalia/Glass
+-importPath
+/usr/lib64/qt6/qml
+-qrcFiles
+/home/lucasramos/Documentos/Systalia Engine/build/.qt/rcc/qmake_Systalia_Glass.qrc
+/home/lucasramos/Documentos/Systalia Engine/build/.qt/rcc/systalia_glass_engine_raw_qml_0.qrc
+/home/lucasramos/Documentos/Systalia Engine/build/.qt/rcc/systalia_glass_engine_raw_qml_0_extra_qmldirs.qrc
+/home/lucasramos/Documentos/Systalia Engine/build/shaders/.qt/rcc/systalia_glass_shaders.qrc

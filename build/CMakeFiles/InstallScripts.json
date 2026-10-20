@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lucasramos/Documentos/Systalia Engine/build/cmake_install.cmake",
+		"/home/lucasramos/Documentos/Systalia Engine/build/shaders/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
